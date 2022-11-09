@@ -1,0 +1,9 @@
+{
+    "category": "THIRD_PARTY",
+    "sources": {
+        "python": [
+            "src"
+        ]
+    },
+    "name": "studiolibrary"
+}

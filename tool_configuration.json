@@ -1,7 +1,7 @@
 {
     "category": "THIRD_PARTY",
     "sources": {
-        "python": [
+        "python_maya": [
             "src"
         ]
     },
